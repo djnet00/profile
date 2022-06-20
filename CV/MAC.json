@@ -1,0 +1,258 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Julian",
+      "surnames": "Mesa",
+      "title": "Senior Full-Stack Developer",
+      "description": "Senior FullStack Developer. I love the front end starting with Semantic HTML Markup, extremely powerful layouts done with CSS and improving behaviour with JavaScript.\n\nI usually read the W3C Standards to keep updated with the new APIs and improvements. \nI’ve been working on the web since the 2005 sometimes as a freelancer and the other in companies such advertising agencies, design studios, software factories and Start-Ups. \n\nMy objective is be part of a high level developers team, creating complex web based applications and components, using new technologies integrated with agile methodologies, aiding in all aspects of the development cycle (design, development, testing and implementation).\n\nApply UI patterns with portability and clean, standard, performatic code, providing the best experience as possible.\n\nI'm a huge fan of Open Source software and love writing code for the web.\n\nI do both front and back-end development: HTML, CSS, Javascript, Ruby on Rails, PHP Laravel, MySQL, PostgreSQL, GNU/Linux.\n\nCurrently I specialise in user Interface and PHP development with Laravel Framework and VUE.",
+      "avatar": {
+        "alt": "1648216950358.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/20/329cbc90-5b12-4d26-86e1-4fec599ebbc4_1648216950358.jpeg"
+      },
+      "location": {
+        "notes": "Colombia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/djnet00"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/djnet00"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/djnet00/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Senior Full-Stack Developer",
+        "fact": "Senior FullStack Developer. I love the front end starting with Semantic HTML Markup, extremely powerful layouts done with CSS and improving behaviour with JavaScript.\n\nI usually read the W3C Standards to keep updated with the new APIs and improvements. \nI’ve been working on the web since the 2005 sometimes as a freelancer and the other in companies such advertising agencies, design studios, software factories and Start-Ups. \n\nMy objective is be part of a high level developers team, creating complex web based applications and components, using new technologies integrated with agile methodologies, aiding in all aspects of the development cycle (design, development, testing and implementation).\n\nApply UI patterns with portability and clean, standard, performatic code, providing the best experience as possible.\n\nI'm a huge fan of Open Source software and love writing code for the web.\n\nI do both front and back-end development: HTML, CSS, Javascript, Ruby on Rails, PHP Laravel, MySQL, PostgreSQL, GNU/Linux.\n\nCurrently I specialise in user Interface and PHP development with Laravel Framework and VUE."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/djnet00/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
